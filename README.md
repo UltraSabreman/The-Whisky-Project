@@ -1,0 +1,1 @@
+Hack job of a python script to help manually take lat/long coordinates from a PDF and help turn them into a KML file for use with google earth and other software. 
